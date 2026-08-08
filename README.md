@@ -84,9 +84,3 @@ I build **AI-powered applications, intelligent workflows, and production-ready f
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<p align="center">
-  <b>Build. Learn. Improve. Repeat. 🚀</b>
-</p>
