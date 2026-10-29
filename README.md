@@ -1,78 +1,51 @@
-# Hi, I'm Murali Prasath 👋
+# Hi, I'm Murali 👋
 
-### Fullstack AI Engineer
+**Full-stack AI Engineer building production applications and AI-powered systems.**
 
-I build **AI-powered applications, intelligent workflows, and production-ready full-stack systems**.
+For the past two years, I've been building and shipping production software across the stack — from React and Next.js frontends to FastAPI, Node.js, and Go backends, PostgreSQL and MongoDB databases, and the AI systems that connect them.
 
-* 🔭 Currently building **AI-powered applications and intelligent workflows**
-* 💼 **2+ years** of experience building production full-stack and AI systems
-* 🤖 Working with **AI Agents, RAG, LLM applications, and multi-agent workflows**
-* 💬 Ask me about **Go, Python, TypeScript, React, AI Agents, RAG, and backend development**
-* 🧠 Interested in **system design, scalable backend systems, and AI engineering**
+I also build AI agents and LLM applications using LangGraph, RAG, tool calling, and evaluation workflows. What I enjoy most is turning an AI prototype into something that can actually run in production — with clear workflows, reliable retrieval, useful tools, and enough tracing and evaluation to understand when things go wrong.
+
+## What I work on
+
+* **Full-stack applications.** End-to-end features across React, Next.js, APIs, databases, and production services — from frontend components to backend logic and data changes.
+* **AI agent workflows.** Multi-stage LangGraph workflows with tool calling, human-in-the-loop steps, validation, and quality gates.
+* **RAG systems.** Retrieval pipelines with Qdrant, query rewriting, scoring, and LLM-based reranking to improve the quality of grounded responses.
+* **Evals and debugging.** LangSmith tracing and LLM-as-judge evaluations to find failing nodes, understand why an agent went wrong, and improve it based on real failures.
+* **Production engineering.** Docker, AWS, testing, observability, and the engineering work needed to take features and AI systems from development to production.
 
 ---
 
-## 🛠️ Tech Stack
+## Tools I use
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="22%" height="80" valign="middle"><b>&nbsp;&nbsp;Languages</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,ts,js,go" alt="Python, TypeScript, JavaScript, Go" /></td>
+  </tr>
+  <tr>
+    <td height="80" valign="middle"><b>&nbsp;&nbsp;AI / LLM</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" width="48" height="48" alt="LangChain" title="LangChain" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langsmith-color.svg" width="48" height="48" alt="LangSmith" title="LangSmith" /></td>
+  </tr>
+  <tr>
+    <td height="80" valign="middle"><b>&nbsp;&nbsp;Backend</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql" alt="FastAPI, Node.js, Express, GraphQL" /></td>
+  </tr>
+  <tr>
+    <td height="80" valign="middle"><b>&nbsp;&nbsp;Frontend</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react,nextjs,redux" alt="React, Next.js, Redux" /></td>
+  </tr>
+  <tr>
+    <td height="80" valign="middle"><b>&nbsp;&nbsp;Data</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/qdrant.svg" width="48" height="48" alt="Qdrant" title="Qdrant" /></td>
+  </tr>
+  <tr>
+    <td height="80" valign="middle"><b>&nbsp;&nbsp;Testing</b></td>
+    <td valign="middle">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/testinglibrary" width="48" height="48" alt="React Testing Library" title="React Testing Library" /></td>
+  </tr>
+</table>
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assistant%20UI-000000?style=for-the-badge&logo=react&logoColor=white" />
-</p>
-
-### Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go%20(Chi)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go%20(Gin)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-### Agentic AI & LLM Frameworks
-<p align="left"> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=7FC8FF" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00C7B7" /> <img src="https://img.shields.io/badge/LangSmith-2D2D2D?style=for-the-badge&logoColor=white" /> </p> 
-
-### Database
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-</p>
-
-### Cloud & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-</p>
-
-### Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-</p>
-
-### Developer Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex%20CLI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-<br>
+I write most of my code with Claude Code, and sometimes Cursor or Codex CLI.
 
 ## 🤝 Let's Connect
 
